@@ -261,7 +261,6 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::before {
   white-space: nowrap;
   overflow: hidden;
   max-width: 200px;
-
 }
 
 .content__video-card-description-container {
@@ -288,5 +287,5 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::before {
 
 .more-button {
   padding: 4px 144px;
-  margin: 0 0 2px 2px; 
-} 
+  margin: 0 0 2px 2px;
+}
